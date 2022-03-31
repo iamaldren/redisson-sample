@@ -18,7 +18,7 @@
         <jaxb.version>2.3.0</jaxb.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <springboot-version>2.1.7.RELEASE</springboot-version>
+        <springboot-version>2.5.12</springboot-version>
     </properties>
 
     <parent>
